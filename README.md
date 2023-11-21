@@ -8,9 +8,6 @@ Je m’appelle Paul Biarneix et je suis étudiant à l’IUT de Limoges dans le 
 ## Technologies Utilisées
 
 ### Outils et Logiciels
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
@@ -51,8 +48,9 @@ Je m’appelle Paul Biarneix et je suis étudiant à l’IUT de Limoges dans le 
 ---
 
 ## Contact
-* [LinkedIn](https://www.linkedin.com/in/paulbiarneix)
-* [Email](mailto:tonadresseemail@gmail.com)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
