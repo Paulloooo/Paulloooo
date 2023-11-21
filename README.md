@@ -1,4 +1,4 @@
-# Paul Biarneix - Étudiant en BUT3 Informatique
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&random=false&width=435&lines=BIARNEIX+Paul+-+BUT3+informatique)](https://git.io/typing-svg)
 
 ## À propos de moi
 Je m’appelle Paul Biarneix et je suis étudiant à l’IUT de Limoges dans le département Informatique. Depuis quelques années, je m’investis dans le domaine de l’informatique afin d’acquérir le plus d’expérience en vue de ma future professionnalisation. J’aimerais donc par la suite exercer un métier en rapport avec les technologies du Web, plus particulièrement dans le développement. 
@@ -65,6 +65,24 @@ Par ailleurs, je comprends que le travail collectif requiert également un séri
 - **Persévérance et Ténacité**
 - **Travail d'équipe et Communication**
 - **Autonomie et Sérieux**
+---
+
+## Mes Projets
+
+### Site Laravel sur le thème de Cars
+Un projet Laravel centré sur le thème automobile. [Voir le projet](https://github.com/Paulloooo/r505_laravel_cars)
+
+### Site Symfony répertoriant des activités sportives
+Plateforme Symfony pour répertorier les activités sportives. [Voir le projet](https://github.com/Paulloooo/runcenter)
+
+### Jeu Python avec documentation pour les journées portes ouvertes de l'IUT du Limousin (2022)
+Jeu Python avec documentation pour les Journées Portes Ouvertes de l'IUT du Limousin. [Voir le projet](https://github.com/Paulloooo/JPO)
+
+### Application SpotiZola
+Une application centrée sur Spotify. [Voir le projet](https://github.com/Paulloooo/BiarneixPaulSpotifyApp)
+
+### Application ToDoList en Kotlin
+Application ToDoList développée en Kotlin. [Voir le projet](https://github.com/Paulloooo/ToDo-List-Application)
 
 ---
 
