@@ -46,6 +46,27 @@ Je m’appelle Paul Biarneix et je suis étudiant à l’IUT de Limoges dans le 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ---
+## Compétences
+
+En développant des projets sur le long terme, j'ai cultivé la persévérance et la ténacité. Ces compétences sont cruciales pour réussir pleinement dans les tâches exigées, surtout dans le domaine de l’informatique. Ces qualités m'ont permis de maintenir mon engagement et de résoudre efficacement les problèmes rencontrés.
+
+Travaillant sur des projets comme SAé, j'ai acquis une expérience précieuse du travail d'équipe. Cette compétence est essentielle dans tout projet informatique, car une collaboration efficace est primordiale pour son succès. Pour collaborer de manière efficiente, je communique aisément, que ce soit à l'oral ou à l'écrit. Cette aptitude me permettra d'échanger efficacement avec les autres membres d'une équipe, un avantage considérable dans tout projet collaboratif.
+
+Par ailleurs, je comprends que le travail collectif requiert également un sérieux et une autonomie individuels. J'ai développé la capacité à travailler de manière autonome tout en maintenant un niveau élevé de rigueur.
+
+### Compétences techniques :
+
+- **Développement Web :** [React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), [NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), [Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white), [Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- **Bases de données :** [MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white), [MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Outils de développement :** [Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white), [VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white), [Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### Soft Skills :
+
+- **Persévérance et Ténacité**
+- **Travail d'équipe et Communication**
+- **Autonomie et Sérieux**
+
+---
 
 ## Contact
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
