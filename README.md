@@ -1,7 +1,7 @@
 # Paul Biarneix - Étudiant en BUT3 Informatique
 
 ## À propos de moi
-Je m’appelle Paul Biarneix et je suis étudiant à l’IUT de Limoges dans le département Informatique. Depuis quelques années, je m’investis dans le domaine de l’informatique afin d’acquérir le plus d’expérience en vue de ma future professionnalisation. J’aimerais donc par la suite exercer un métier en rapport avec les technologies du Web, plus particulièrement dans le développement. C’est un objectif sur lequel je travaille depuis plus de 3 ans maintenant. En effet, depuis mon stage de 3ème effectué dans un service informatique d’une entreprise, j’ai toujours tout fait pour décrocher un métier dans le domaine de l’informatique. La formation du BUT m’a aidé à trouver ma voie, en me faisant acquérir les compétences nécessaires dans le développement Web pour pouvoir réussir par la suite.
+Je m’appelle Paul Biarneix et je suis étudiant à l’IUT de Limoges dans le département Informatique. Depuis quelques années, je m’investis dans le domaine de l’informatique afin d’acquérir le plus d’expérience en vue de ma future professionnalisation. J’aimerais donc par la suite exercer un métier en rapport avec les technologies du Web, plus particulièrement dans le développement. 
 
 ---
 
@@ -52,7 +52,10 @@ Je m’appelle Paul Biarneix et je suis étudiant à l’IUT de Limoges dans le 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+--- 
 
+## Statistiques
+![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Paulloooo&show_icons=true&theme=radical)
 
 
 <!---
