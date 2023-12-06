@@ -92,9 +92,9 @@ Site Symfony pour répertorier les activités sportives. [Voir le projet](https:
 
 Mêmes compétences sensiblement travaillées, avec utilisation également de Git pour gérer mon projet.
 
-## Projet en Cours : Développement Collaboratif pour <Nom de l'Entreprise>
+## Projet en Cours : Développement Collaboratif pour Legrand
 
-Actuellement, je suis impliqué dans un projet en équipe avec une entreprise de renom pour répondre à une demande spécifique du client, tout en respectant la confidentialité des détails de l'entreprise. Ce projet met l'accent sur une approche collaborative et utilise un ensemble varié de technologies pour répondre aux besoins du client.
+Actuellement, je suis impliqué dans un projet en équipe avec l'entreprise Legrand pour répondre à une demande spécifique du client, tout en respectant la confidentialité des détails de l'entreprise. Ce projet met l'accent sur une approche collaborative et utilise un ensemble varié de technologies pour répondre aux besoins du client.
 
 ### Projet SAé en collaboration avec l'entreprise Legrand
 
@@ -109,7 +109,7 @@ Actuellement, je suis impliqué dans un projet en équipe avec une entreprise de
 Ce projet en cours représente une opportunité de mettre en pratique mes compétences techniques et mes aptitudes à collaborer dans un environnement professionnel. La collaboration étroite avec le client lors de réunions régulières a renforcé ma capacité à répondre directement à des demandes spécifiques et à m'adapter aux retours pour améliorer le produit final.
 
 
-### Autres projets :
+## Autres projets :
 
 ### Jeu Python avec documentation pour les journées portes ouvertes de l'IUT du Limousin (2022)
 Jeu Python avec documentation pour les Journées Portes Ouvertes de l'IUT du Limousin. [Voir le projet](https://github.com/Paulloooo/JPO)
