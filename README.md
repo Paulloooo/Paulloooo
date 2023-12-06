@@ -69,11 +69,47 @@ Par ailleurs, je comprends que le travail collectif requiert également un séri
 
 ## Mes Projets
 
-### Site Laravel sur le thème de Cars
-Un projet Laravel centré sur le thème automobile. [Voir le projet](https://github.com/Paulloooo/r505_laravel_cars)
+## Projet : Site Web Communautaire (Cars)
+
+Ce projet personnel représente un site web communautaire que j'ai développé, utilisant les technologies Laravel, Git, PHP, Tailwind et PostgreSQL. L'objectif était de créer une plateforme permettant aux utilisateurs de vendre et d'acheter des produits liés à l'univers du film Cars.
+
+### Détails du Projet
+
+- **Technologies Utilisées :** Laravel, Git (pour la gestion de version), PHP, PostgreSQL
+- **Description :** J'ai conçu et développé ce site web complet, offrant une interface conviviale permettant aux utilisateurs d'annoncer leurs produits liés à Cars. Cela impliquait la création de fonctionnalités d'inscription, de connexion, de publication d'annonces avec des détails spécifiques aux produits, ainsi qu'un système de recherche et de filtrage efficace.
+- **Compétences Développées :**
+  - **Développement d'applications web (UE1.1, UE2.1)** : Création d'une application web complète, de la conception à la mise en œuvre, en utilisant Laravel pour développer des fonctionnalités avancées.
+  - **Gestion de Base de Données (UE4.4)** : Utilisation de PostgreSQL pour stocker et gérer les données des utilisateurs et des produits.
+  - **Adaptabilité des Applications (UE5.1)** : Création d'une plateforme web adaptée à différents supports grâce à l'utilisation de technologies modernes telles que Laravel.
+
+Ce projet m'a permis de renforcer mes compétences en développement web, en mettant en pratique mes connaissances en Laravel et en base de données PostgreSQL. De plus, la gestion du projet via Git m'a offert une meilleure compréhension de la gestion du code source et de la collaboration dans un environnement de développement.
+
+Ce projet m'a également donné l'occasion de développer mes compétences personnelles en gestion de projet et en résolution de problèmes, en relevant des défis liés au développement d'une plateforme communautaire en ligne.
+
 
 ### Site Symfony répertoriant des activités sportives
-Plateforme Symfony pour répertorier les activités sportives. [Voir le projet](https://github.com/Paulloooo/runcenter)
+Site Symfony pour répertorier les activités sportives. [Voir le projet](https://github.com/Paulloooo/runcenter)
+
+Mêmes compétences sensiblement travaillées, avec utilisation également de Git pour gérer mon projet.
+
+## Projet en Cours : Développement Collaboratif pour <Nom de l'Entreprise>
+
+Actuellement, je suis impliqué dans un projet en équipe avec une entreprise de renom pour répondre à une demande spécifique du client, tout en respectant la confidentialité des détails de l'entreprise. Ce projet met l'accent sur une approche collaborative et utilise un ensemble varié de technologies pour répondre aux besoins du client.
+
+### Projet SAé en collaboration avec l'entreprise Legrand
+
+- **Technologies Utilisées :** Node.js, Figma (pour la conception de maquettes), SQL Server, Jetbrains YouTrack (pour la gestion de projet agile)
+- **Description :** Notre équipe travaille en utilisant Node.js pour le développement, Figma pour la conception de maquettes, et SQL Server pour la création de requêtes SQL répondant aux besoins spécifiques du client. Nous avons mis en place une gestion de projet agile avec Jetbrains YouTrack, ce qui nous permet d'organiser les tâches, de suivre les progrès et de répondre de manière flexible aux demandes du client.
+- **Compétences Développées :**
+  - **Collaboration en Équipe (UE1.6 à UE5.6)** : Travailler en équipe sur ce projet m'a permis de comprendre mes propres compétences et de m'intégrer de manière efficace dans une équipe multidisciplinaire.
+  - **Gestion de Projet Agile (UE3.5)** : Utilisation de Jetbrains YouTrack pour la gestion agile des tâches, offrant une meilleure compréhension des méthodologies de gestion de projet.
+  - **Développement avec Node.js (UE1.1)** : Utilisation de Node.js pour répondre aux besoins techniques du projet, en développant des fonctionnalités spécifiques demandées par le client.
+  - **Requêtage (UE4.4)** : Mise en place de requêtes complexes en SQL permettant de répondre au demandes précises du client.
+
+Ce projet en cours représente une opportunité de mettre en pratique mes compétences techniques et mes aptitudes à collaborer dans un environnement professionnel. La collaboration étroite avec le client lors de réunions régulières a renforcé ma capacité à répondre directement à des demandes spécifiques et à m'adapter aux retours pour améliorer le produit final.
+
+
+### Autres projets :
 
 ### Jeu Python avec documentation pour les journées portes ouvertes de l'IUT du Limousin (2022)
 Jeu Python avec documentation pour les Journées Portes Ouvertes de l'IUT du Limousin. [Voir le projet](https://github.com/Paulloooo/JPO)
