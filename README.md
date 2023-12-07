@@ -78,7 +78,7 @@ Ce projet personnel représente un site web communautaire que j'ai développé, 
 - **Technologies Utilisées :** Laravel, Git (pour la gestion de version), PHP, PostgreSQL
 - **Description :** J'ai conçu et développé ce site web complet, offrant une interface conviviale permettant aux utilisateurs d'annoncer leurs produits liés à Cars. Cela impliquait la création de fonctionnalités d'inscription, de connexion, de publication d'annonces avec des détails spécifiques aux produits, ainsi qu'un système de recherche et de filtrage efficace.
 - **Compétences Développées :**
-  - **Développement d'applications web (UE1.1, UE2.1)** : Création d'une application web complète, de la conception à la mise en œuvre, en utilisant Laravel pour développer des fonctionnalités avancées.
+  - **Développement d'applications web (UE1.1 à UE5.1)** : Création d'une application web complète, de la conception à la mise en œuvre, en utilisant Laravel pour développer des fonctionnalités avancées.
   - **Gestion de Base de Données (UE4.4)** : Utilisation de PostgreSQL pour stocker et gérer les données des utilisateurs et des produits.
   - **Adaptabilité des Applications (UE5.1)** : Création d'une plateforme web adaptée à différents supports grâce à l'utilisation de technologies modernes telles que Laravel.
 
